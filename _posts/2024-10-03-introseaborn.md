@@ -5,4 +5,4 @@ author: Alyssa Ford
 description: Basic steps to set up Seaborn and learn about its functions and how to make exciting graphics to visualize the data
 
 ---
-<h1>Seaborn and Data Visualization</h1>
+<h1>Don’t let your data sink! Take a swim with <em><strong>Seaborn</strong></em></h1>
