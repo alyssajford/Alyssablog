@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Introduction to Seaborn"
+date: 2024-10-03
 author: Alyssa Ford
 description: Basic steps to set up Seaborn and learn about its functions and how to make exciting graphics to visualize the data
-image: 
+image: "/assets/images/seagull.jpg"
 ---
 <h1>Don’t let your data sink! Take a swim with <em><strong>Seaborn</strong></em></h1>
 
