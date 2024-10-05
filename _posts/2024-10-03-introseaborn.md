@@ -44,11 +44,13 @@ image: "/assets/images/seagull.jpg"
 * I did not import a dataset from Seaborn. Instead, I imported a dataset from github using Pandas (another Python package). However, Seaborn functions work on any dataset imported *
 
 ![first_graph](/assets/images/regplot with color.png) 
+
 ![first_graph](/assets/images/regplot with color pic.png) 
 
 * This code has details to customize my linear regression plot. At the beginning, I specified my variables as we did in the graphs previously. My x variable in this data set is 'sugars' and my y variable is 'calories'. Scatter_kws customizes the scatter plot on the graph. In this case, I made the color blue with markers of size 50 and an opacity of 70%. Next, line_kws customizes the linear regression line. I used a red dashed "--" line with a width of 2. Lastly, I made the markers of my scatterplot circles as seen on the visual. These customizations make the graph prettier and easier to read.*
 
 ![second](/assets/images/second.png) 
+
 ![second_pic](/assets/images/second pic.png)
 
 *This graph has different elements to it! When looking at the code, a lot of it is similar to the previous graph. Now, I added a title (plt.title('Sugars vs Calories in Cereal')), confidence interval bands which are shown by light red outside of the regression line, and labels for x and y. These are just a few more ways you can expand your creativity to show your data.*
