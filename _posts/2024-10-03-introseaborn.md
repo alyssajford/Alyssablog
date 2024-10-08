@@ -22,13 +22,13 @@ image: "/assets/images/seagull.jpg"
 
 *Lastly, we can add titles, colors, and a legend to our graphs. This comes in handy when presenting data to others. In this example, the creator is comparing bill length to bill depth based on species and sex as seen in the difference of shapes and colors.*
 
-<h2><em><strong>Step 1:</strong></em></h2> Installing Seaborn</h2>
+<h2><em><strong>Step 1:</strong></em> Installing Seaborn</h2>
 
 <p>As mentioned previously, Seaborn is a Python library. It is built off of another package called Matplotlib. Because of this, it is necessary to make sure Python is installed. To check if you have Python installed on your computer, you can open a terminal and type python--version. The computer will show the version of Python on your computer...if you do not have it installed, here is a link for an easy setup! (link) (new paragraph) Now that we have Python, we are ready to install <em><strong>Seaborn!</strong></em> Keep the terminal open and simply type pip install seaborn. This should install automatically onto your computer after a few seconds. To import seaborn into your code, you type import seaborn as sns (see picture below) and now you are free to use seaborn functions! Note: if your confused at any point of installation, here is a link directly to Seaborn!</p>
 
 ![graph_import](/assets/images/importing_libraries.png) 
 
-<h3><em><strong>Step 2:</strong></em></h3> The Basics</h3>
+<h3><em><strong>Step 2:</strong></em> The Basics</h3>
 
 <p>One of the firt things I would recommend when practicing functions in Seaborn is to look through all of their built in data sets. This is a powerful tool to create your own visuals on data that is already clean and provided. In order to discover a built in data set, use the function sns.get_dataset_names(). An example that I will use is the "titanic" dataset. To access it, we would type data = sns.load_dataset('titanic'). After running this, the titanic dataset is now stored in a variable called data. To view summarized data, the next line of code written is data.head(). This allows us to view the first five rows of our dataset. Similarly, we could type data.tail() to view the last five rows of the dataset. (picture of that code) (new subheading: basic graphs) Here is a list of a few basic graph functions using Seaborn. For simplicity in this post, I have typed my code using a google colab file.</p>
 

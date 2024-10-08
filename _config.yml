@@ -21,7 +21,7 @@
 title: Alyssa's Data Science Blog
 email: alyssa.j.ford@gmail.com 
 description: "This blog will be filled with projects and information about the world of Data Science" 
-baseurl: "/Alyssablog" # the name of the repository 
+baseurl: "Alyssablog" # the name of the repository 
 url: "https://alyssajford.github.io" #  change this to "https://<your-github-username>.github.io"
 image: /assets/images/headerimg.jpg
 author: Alyssa Ford
