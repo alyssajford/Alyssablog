@@ -86,7 +86,7 @@ Similarly, we could type `data.tail()` to view the last five rows of the dataset
 ---
 
 ## Basic Graph Functions
-Here is a list of a few basic graph functions using Seaborn. For simplicity in this post, I have typed my code using a Google Colab File.</p>
+Here is a list of a few basic graph functions using Seaborn. For simplicity in this post, I have typed my code using a Google Colab File.
 
 <img src = "{{site.url}}/{{site.baseurl}}/assets/images/basic_graphs.png" alt = "graph_basic"/>
  
