@@ -78,7 +78,7 @@ One of the firt things I would recommend when practicing functions in Seaborn is
 
 - In order to discover a built in data set, use the function `sns.get_dataset_names()`. An example that I will use is the "titanic" dataset. 
 
-- To access it, we would type `data = sns`.load_dataset('titanic'). After running this, the titanic dataset is now stored in a variable called "data". 
+- To access it, we would type `data = sns.load_dataset('titanic')'. After running this, the titanic dataset is now stored in a variable called "data". 
 
 - To view summarized data, the next line of code written is `data.head()`. This allows us to view the first five rows of our dataset. 
 Similarly, we could type `data.tail()` to view the last five rows of the dataset. 
