@@ -4,7 +4,7 @@ title:  "What Should I Have For Dessert?"
 date: 2024-10-23
 author: Alyssa Ford
 description: If you love sugar as much as me, you treasure the moment in the day where you can have a sweet treat. This post will help you to develop webscrapping skills and dive deeper into the sugar world.
-image: "assets\images\cookie_cover.jpg"
+image: "/assets/images/cookie_cover.jpg"
 
 ---
 
