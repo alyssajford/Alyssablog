@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction to Seaborn"
-date: 2024-10-03
+date: 2024-10-02
 author: Alyssa Ford
 description: Getting Started with Seaborn: A Fun Guide to Stunning Data Visualizations
 image: "/assets/images/seagull.jpg"
